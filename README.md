@@ -35,7 +35,7 @@
     - Generate a new cover based on user inputs 
     - Display the user generated cover
 
-    ![Make Own Cover](/readme_gifs/make_own_book_gif.gif)
+    ![Make Own Cover](/readme_gifs/Make_own_book_gif.gif)
 
   5. Iteration 4
     - Use JavaScript to append HTML elements 
@@ -46,7 +46,7 @@
   6. Iteration 5 
     - Use an eventListener to remove saved covers when a double click event is triggered
 
-    ![Delete Cover](/readme_gifs/delete_covers_gif.gif)
+    ![Delete Cover](/readme_gifs/Delete_covers_gif.gif)
 
   7. Future Iterations
     - Create personalized profile functionality for a user to store their saved covers for future use
