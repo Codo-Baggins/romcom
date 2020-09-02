@@ -2,11 +2,11 @@
 #RomCom - README#
 ---
 
-###Contributors###
+### Contributors###
   - Aaron Townsend(https://github.com/atownse/) and Joe Lopez(https://github.com/Codo-Baggins/) 
 
 
-##Introduction##
+## Introduction##
   - The main goal of this project was to use JavaScript to create a website that generates unique romance novel covers. 
   - Added features include:
     - Generating random covers
@@ -14,7 +14,7 @@
     - Saving previously generated covers
     - Deleting unwanted covers by selecting them
 
-##Process##
+## Process##
   1. Iteration 0
     - Generating a random cover once the page loaded  
     - Using querySelector to access HTML elements
@@ -51,7 +51,7 @@
   7. Future Iterations
     - Create personalized profile functionality for a user to store their saved covers for future use
 
-  ##Sources##
+  ## Sources##
   1. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do...while
   2. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Object/values
   3. https://developer.mozilla.org/en-US/docs/Web/API/Event/target
