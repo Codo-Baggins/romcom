@@ -25,7 +25,7 @@
     - Accessing the Show New Random Cover Button
     - Generating a random cover upon that button click
 
-    ![Random Cover](/readme_gifs/random_button_cover_gif.gif)
+    ![Random Cover](/readme_gifs/readme_gifs/random_button_cover_gif.gif)
 
   3. Iteration 2
     - Working with the other buttons on the page to display the correct contents
