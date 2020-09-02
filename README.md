@@ -58,4 +58,6 @@
   4. https://javascript.info/searching-elements-dom
   5. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes
   6. https://developer.mozilla.org/en-US/docs/Web/Events
-  7. Personal Sources: Brigette Doelp & Jon Sweet
+  7. Personal Sources: 
+      - Brigette Doelp & Jon Sweet
+
