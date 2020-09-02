@@ -19,7 +19,7 @@
     - Generating a random cover once the page loaded  
     - Using querySelector to access HTML elements
 
-    ![Onload gif](random_cover_onload_gif.gif)
+    ![Onload gif](/random_cover_onload_gif.gif)
 
   2. Iteration 1
     - Accessing the Show New Random Cover Button
